@@ -1,6 +1,6 @@
 # Enterprise SIEM Deployment: Wazuh Manager & Windows Server Agent with FIM
 
-## 🚀 Project Overview
+## Project Overview
 A hands-on security and systems administration lab demonstrating the deployment of a centralized **Wazuh SIEM Manager** (hosted on Kali Linux) and a **Wazuh Security Agent** on **Windows Server 2022**. This project showcases live telemetry streaming, XML service configuration, and **Real-Time File Integrity Monitoring (FIM)**.
 
 ## Lab Architecture
